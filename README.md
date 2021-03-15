@@ -9,7 +9,7 @@ Write an application that will extract files from the public AWS S3 bucket, tran
   </tr>
   <tr>
     <td>Bucket name</td>
-    <td>data-engineering-interns</td>
+    <td>data-engineering-interns.macpaw.io</td>
   </tr>
   <tr>
     <td>Files list object key</td>
